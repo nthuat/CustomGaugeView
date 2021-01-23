@@ -31,7 +31,7 @@
         <attr name="rangeValues" format="reference" />
         <attr name="rangeColors" format="reference" />
 
-        <attr name="textValue" format="string|reference" />
+        <attr name="textValue" format="string|float" />
         <attr name="textValueColor" format="color" />
         <attr name="textValueSize" format="float" />
         <attr name="textUnit" format="string|reference" />
